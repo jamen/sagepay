@@ -1,0 +1,9 @@
+{
+  "name": "sagepay",
+  "version": "0.0.0",
+  "description": "Node.js package for Sage Pay's server integration protocol.",
+  "main": "lib/sagepay.js",
+  "author": "Jamen Marz (http://jamenmarz.com)",
+  "license": "MIT",
+  "repository": "jamen/sagepay"
+}

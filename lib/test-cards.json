@@ -1,0 +1,122 @@
+[
+  {
+    "method": "Visa",
+    "number": "4929 0000 0000 6",
+    "cardtype": "VISA",
+    "3dsecure": "Y"
+  },
+  {
+    "method": "Visa",
+    "number": "4929 0000 0555 9",
+    "cardtype": "VISA",
+    "3dsecure": "N"
+  },
+  {
+    "method": "Visa",
+    "number": "4929 0000 0001 4",
+    "cardtype": "VISA",
+    "3dsecure": "U"
+  },
+  {
+    "method": "Visa",
+    "number": "4929 0000 0002 2",
+    "cardtype": "VISA",
+    "3dsecure": "E"
+  },
+  {
+    "method": "Visa Corporate",
+    "number": "4484 0000 0000 2",
+    "cardtype": "VISA",
+    "3dsecure": "N"
+  },
+  {
+    "method": "Visa Debit",
+    "number": "4462 0000 0000 0003",
+    "cardtype": "DELTA",
+    "3dsecure": "Y"
+  },
+  {
+    "method": "Visa Electron",
+    "number": "4917 3000 0000 0008",
+    "cardtype": "UKE",
+    "3dsecure": "Y"
+  },
+  {
+    "method": "MasterCard",
+    "number": "5404 0000 0000 0001",
+    "cardtype": "MC",
+    "3dsecure": "Y"
+  },
+  {
+    "method": "MasterCard",
+    "number": "5404 0000 0000 0043",
+    "cardtype": "MC",
+    "3dsecure": "N"
+  },
+  {
+    "method": "MasterCard",
+    "number": "5404 0000 0000 0084",
+    "cardtype": "MC",
+    "3dsecure": "U"
+  },
+  {
+    "method": "MasterCard",
+    "number": "5404 0000 0000 0068",
+    "cardtype": "MC",
+    "3dsecure": "E"
+  },
+  {
+    "method": "Debit MasterCard",
+    "number": "5573 4700 0000 0001",
+    "cardtype": "MCDEBIT",
+    "3dsecure": "Y"
+  },
+  {
+    "method": "Maestro (UK Issued)",
+    "number": "6759 0000 0000 5",
+    "cardtype": "MAESTRO",
+    "3dsecure": "Y"
+  },
+  {
+    "method": "Maestro (German Issued)",
+    "number": "6705 0000 0000 8",
+    "cardtype": "MAESTRO",
+    "3dsecure": "Y"
+  },
+  {
+    "method": "Maestro (Irish Issued)",
+    "number": "6777 0000 0000 7",
+    "cardtype": "MAESTRO",
+    "3dsecure": "Y"
+  },
+  {
+    "method": "Maestro (Spanish Issued)",
+    "number": "6766 0000 0000 0",
+    "cardtype": "MAESTRO",
+    "3dsecure": "Y"
+  },
+  {
+    "method": "American Express",
+    "number": "3742 0000 0000 004",
+    "cardtype": "AMEX",
+    "3dsecure": "N/A"
+  },
+  {
+    "method": "Diners Club / Discover",
+    "number": "3600 0000 0000 08",
+    "cardtype": "DC",
+    "3dsecure": "N/A"
+  },
+  {
+    "method": "JCB",
+    "number": "3569 9900 0000 0009",
+    "cardtype": "JCB",
+    "3dsecure": "N/A"
+  },
+  {
+    "method": "PayPal",
+    "number": "Use your own PayPal Sandbox",
+    "cardtype": "PAYPAL",
+    "3dsecure": "N/A"
+  }
+]
